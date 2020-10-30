@@ -1,0 +1,12 @@
+C:\Users\inter\source\repos\Task Performance\Task Performance\bin\Debug\Task Performance.exe.config
+C:\Users\inter\source\repos\Task Performance\Task Performance\bin\Debug\Task Performance.exe
+C:\Users\inter\source\repos\Task Performance\Task Performance\bin\Debug\Task Performance.pdb
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csprojAssemblyReference.cache
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task_Performance.QueuingForm.resources
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task_Performance.CashierWindowQueue.resources
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task_Performance.Properties.Resources.resources
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.exe
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task Performance.pdb
+C:\Users\inter\source\repos\Task Performance\Task Performance\obj\Debug\Task_Performance.NowServing.resources
